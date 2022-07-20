@@ -141,11 +141,7 @@ if Timer:
 - **Option 2**
     - 👯 Clone this repo:
     ```
-    $ git clone https://github.com/saimj7/People-Counting-in-Real-Time.git
+    $ git clone https://github.com/matahatiai/opencv_realtime_people_counting.git
     ```
 
 - **Roll it!**
-
----
-
-saimj7/ 19-08-2020 © <a href="http://saimj7.github.io" target="_blank">Sai_Mj</a>.
